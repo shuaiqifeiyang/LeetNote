@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docs on LeetNote</title>
-    <link>https://example.com/docs/</link>
+    <link>https://shuaiqifeiyang.github.io/LeetNote/docs/</link>
     <description>Recent content in Docs on LeetNote</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/docs/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://shuaiqifeiyang.github.io/LeetNote/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://example.com/docs/linked-list/</link>
+      <link>https://shuaiqifeiyang.github.io/LeetNote/docs/linked-list/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/linked-list/</guid>
+      <guid>https://shuaiqifeiyang.github.io/LeetNote/docs/linked-list/</guid>
       <description></description>
     </item>
     
